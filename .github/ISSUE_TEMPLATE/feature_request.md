@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for TransClient
-title: ''
-labels: ''
+title: "[FEATURE]"
+labels: enhancement
 assignees: ''
 
 ---
